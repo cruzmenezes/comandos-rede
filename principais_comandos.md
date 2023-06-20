@@ -64,3 +64,8 @@ route (Windows e Linux)
 #### route:resolve todos os nomes simbólicos em endereços, usando o arquivo /etc/hosts ou o servidor de nome de rede.
 ![route](./img/route.png)
 
+systeminfo / lspci (windows linux)
+#### systeminfo: Esta ferramenta exibe informações de configuração de sistema para.
+
+![systeminfo](./img/systeminfo.png)
+
